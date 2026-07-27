@@ -14,11 +14,11 @@ export function getRenderableSocials(socials: ProfileSocialLink[]): ProfileSocia
 export function buildSameAsLinks(profile: Pick<ProfileConfig, 'githubProfileUrl' | 'socials'>): string[] {
 	const sameAsSet = new Set<string>();
 
-	if (profile.githubProfileUrl.trim()) {
-		sameAsSet.add(profile.githubProfileUrl.trim());
+	if (profile?.githubProfileUrl?.trim()) {
+		sameAsSet.add(profile?.githubProfileUrl?.trim());
 	}
 
-	for (const social of getRenderableSocials(profile.socials)) {
+	for (const social of getRenderableSocials(profile?.socials || [])) {
 		if (social.key === 'email') continue;
 		const url = resolveSocialUrl(social.key, social.url);
 		if (/^https?:\/\//.test(url)) {

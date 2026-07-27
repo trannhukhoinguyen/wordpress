@@ -49,8 +49,8 @@ export const heroConfig: HeroConfig = {
     backgroundImage: defaultBackground.src,
   },
   about: {
-    text: 'About',
-    subtitle: 'Introduce yourself and your work.',
+    text: 'Duy Lực Thiền',
+    subtitle: 'Tổ Sư Thiền do cố hòa thượng Thích Duy Lực hướng dẫn',
     backgroundImage: defaultBackground.src,
   },
   postDefaultBackground: defaultBackground.src,

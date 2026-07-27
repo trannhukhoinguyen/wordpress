@@ -8,9 +8,9 @@ const socials = getRenderableSocials(profileConfig.socials);
 ---
 
 <footer transition:animate="none">
-	<p class="copyright">&copy; {today.getFullYear()} {profileConfig.name}. Powered by {siteTitle}.</p>
+	<p class="copyright">&copy; {today.getFullYear()} {profileConfig.name}<!--. Powered by {siteTitle}.--></p>
 	<div class="social-links">
-		{socials.map((social) => (
+<!--		{socials.map((social) => (
 			<a
 				href={resolveSocialUrl(social.key, social.url)}
 				target={social.key === 'email' ? undefined : '_blank'}
@@ -18,10 +18,10 @@ const socials = getRenderableSocials(profileConfig.socials);
 			>
 				{social.label}
 			</a>
-		))}
-		{headerGithubRepoUrl && (
+		))}-->
+<!--		{headerGithubRepoUrl && (
 			<a href={headerGithubRepoUrl} target="_blank" rel="noreferrer">Repository</a>
-		)}
+		)}-->
 	</div>
 </footer>
 

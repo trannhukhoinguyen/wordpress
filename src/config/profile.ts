@@ -46,24 +46,24 @@ export interface ProfileConfig {
   /**
    * Personal GitHub profile URL (separate from repo URL).
    */
-  githubProfileUrl: string;
+  githubProfileUrl?: string;
   /**
    * Social links displayed in About page social row.
    */
-  socials: ProfileSocialLink[];
+  socials?: ProfileSocialLink[];
 }
 
 export const profileConfig: ProfileConfig = {
   avatar: defaultAvatar,
-  name: 'Your Name',
-  title: 'Your Role / Focus',
-  bio: 'Write a short self-introduction here. This content is used in About and article schema.',
-  location: 'Your City',
-  email: 'you@example.com',
-  githubProfileUrl: 'https://example.com',
+  name: 'Duy Lực Thiền wordpress',
+  title: 'Admin',
+  bio: 'Tổ Sư Thiền do cố hòa thượng Thích Duy Lực hướng dẫn. Wordpress của admin Truyền Bình.',
+  location: 'Bình Thủy - Cần Thơ',
+  email: 'lathieutsinh@yahoo.com.vn',
+  githubProfileUrl: '/',
   socials: [
-    { key: 'github', label: 'GitHub', url: 'https://example.com' },
-    { key: 'x', label: 'X', url: 'https://example.com' },
-    { key: 'website', label: 'Website', url: 'https://example.com' },
+    { key: 'github', label: 'GitHub', url: '/' },
+    { key: 'x', label: 'X', url: '/' },
+    { key: 'website', label: 'Duy Lực Thiền', url: 'https://duylucthien.wordpress.com/' },
   ],
 };
