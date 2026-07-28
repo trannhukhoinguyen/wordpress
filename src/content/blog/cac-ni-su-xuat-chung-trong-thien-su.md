@@ -3,7 +3,7 @@ title: CÁC NI SƯ XUẤT CHÚNG TRONG THIỀN SỬ
 date: 2026-05-10 02:05:00
 description: ""
 categories: ['Tản mạn']
-tags: ['Phật giáo', 'Truyền Bình', '2026', '5']
+tags: ['Phật giáo', 'Thiền sư', '2026', '5']
 ---
 
 Lịch sử Thiền tông Trung Hoa được ghi chép trong các bộ sách như “Cao Tăng Truyện 高僧傳” do Huệ Hiệu 慧皎（497-554CN） biên soạn vào thời Lương, bao gồm nhiều tập. 

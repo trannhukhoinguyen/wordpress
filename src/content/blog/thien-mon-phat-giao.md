@@ -3,7 +3,7 @@ title: THIỀN MÔN PHẬT GIÁO
 date: 2026-07-22 09:17:00
 description: ""
 categories: ['Tản mạn']
-tags: ['Phật giáo', 'Truyền Bình', '2026', '7']
+tags: ['Phật giáo', 'Thiền tông', '2026', '7']
 ---
 
 Phật giáo có rất nhiều tông phái, các tông phái có mức độ rộng hẹp khác nhau tùy đối tượng tín đồ mà tông phái nhắm tới. Nói khái quát nhất thì có hai hệ phái đối lập nhau là Giáo Môn và Thiền Môn.
