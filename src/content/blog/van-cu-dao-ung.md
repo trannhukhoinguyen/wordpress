@@ -3,7 +3,7 @@ title: VÂN CƯ ĐẠO ƯNG 雲居道膺(853-902 CN)
 date: 2026-03-06 05:44:00
 description: ""
 categories: ['Tản mạn']
-tags: ['Phật giáo', 'Thiền sư', '2026', '5']
+tags: ['Phật giáo', 'Thiền sư', '2026', '3']
 ---
 
 Đạo Ưng ở núi Vân Cư, là trụ trì của một thiền viện lớn, gửi vài bộ quần áo ấm tới một đạo sĩ sống một mình trong một cái lều nhỏ gần thiền viện. Bởi ông nghe được vị đạo sĩ này ngồi kiết già nhiều giờ mà không có gì để che thân. Đạo sĩ từ chối: Tôi sinh ra đã như thế này!

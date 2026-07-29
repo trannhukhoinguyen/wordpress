@@ -3,7 +3,7 @@ title: TRÍCH THIỀN SỬ TRUNG QUỐC
 date: 2026-02-12 05:17:00
 description: ""
 categories: ['Tản mạn']
-tags: ['Phật giáo', 'Thiền sử', '2026', '5']
+tags: ['Phật giáo', 'Thiền sử', '2026', '2']
 ---
 
 ## Phật giáo du nhập Trung Quốc
